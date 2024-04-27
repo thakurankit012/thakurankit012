@@ -1,7 +1,7 @@
 
 # Ankit Thakur
 <div style="position: relative;">
-    <img width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IyYmVhcDE5b2EyZnVqbGJuaXloMDh6bzlic3NhdGNsbW1nOTFybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FjEPbKqEPhPpmC8uY/giphy.gif" style="position: relative; z-index: 1;" align="right" />
+    <img width="300px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNhdXNiaTI3YzduZWlnbGJzeXZtNTNyN2dsOWprdXA3d2hwbXJzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPa9vUYCUrx6w/giphy.gif" style="position: relative; z-index: 1;" align="right" />
     
 </div>
 
