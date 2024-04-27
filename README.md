@@ -24,10 +24,22 @@
 - :mortar_board: Studying: <strong>Data Structures and Algorithms with Java | Full Stack Web Development.</strong>
 - :briefcase: I am currently a BBA student, focusing on web development.
 
-<br>
 
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=thakurankit13197&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
+## Tech Stack 🛠️
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Brave Browser](https://img.shields.io/badge/-Brave%20Browser-FB542B?style=flat-square&logo=brave&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+## GitHub Stats 📈
+
+<div style="display:flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thakurankit012&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurankit012&theme=dark" width="48%" />
+</div>
+
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thakurankit012&theme=radical&hide_border=true)
+
+
+
+
+
+
