@@ -22,7 +22,7 @@ Hey there! I'm Ankit Thakur, a BBA student with a passion for web development. C
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## Contact
-- **LinkedIn**: [Ankit Thakur](https://www.linkedin.com/in/ankit-thakur)
-- **Email**: [email](thakurankit13197@gmail.com)
+- **LinkedIn**: [Ankit Thakur](https://www.linkedin.com/in/ankit-thakur-6259b5226/)
+- **Email**: [thakurankit13197@gmail.com](thakurankit13197@gmail.com)
 
 Feel free to connect with me for discussions or collaborations!
