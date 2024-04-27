@@ -23,6 +23,6 @@ Hey there! I'm Ankit Thakur, a BBA student with a passion for web development. C
 
 ## Contact
 - **LinkedIn**: [Ankit Thakur](https://www.linkedin.com/in/ankit-thakur)
-- **Email**: [ankit@example.com](mailto:ankit@example.com)
+- **Email**: [email](thakurankit13197@gmail.com)
 
 Feel free to connect with me for discussions or collaborations!
