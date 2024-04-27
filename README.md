@@ -1,20 +1,33 @@
-# Ankit Thakur's Portfolio 🚀
-Hey there! I'm Ankit Thakur, a BBA student passionate about web development. Currently delving into Data Structures and Algorithms with Java to level up my skills.
 
-## Skills 💻
-- **Web Dev**: HTML, CSS, JavaScript, React.js
-- **Tools**: Git, IntelliJ IDEA
-  
-## Learning Focus 📚
-- **DSA with Java**: Exploring Data Structures and Algorithms using Java.
+# Ankit Thakur
 
-## Goals 🎯
-- **Full Stack Dev**: Mastering both front-end and back-end development.
+<img align="right" width="300px" src="./bio-image.svg" />
 
-## Tech Stack 🛠️
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+<p align="left">
+  <a href="mailto:thakurankit13197@gmail.com">
+    <img src="https://img.shields.io/badge/-thakurankit13197@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thakurankit13197@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-thakur-6259b5226/">
+    <img src="https://img.shields.io/badge/-Ankit%20Thakur-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-thakur-6259b5226/" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Ankit Thakur%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/thakurankit13197/?tab=follow">
+    <img src="https://img.shields.io/github/followers/thakurankit13197?label=Follow&style=social" />
+  </a>
+</p>
 
-## Contact 📧
-- **LinkedIn**: [Ankit Thakur](https://www.linkedin.com/in/ankit-thakur-6259b5226/) - **Email**: [thakurankit13197@gmail.com](thakurankit13197@gmail.com)
+<br>
 
-Feel free to connect with me for discussions or collaborations!
+- :rocket: Skills: <strong>HTML | CSS | JavaScript | React.js | Git | IntelliJ IDEA.</strong>
+- :mortar_board: Studying: <strong>Data Structures and Algorithms with Java | Full Stack Web Development.</strong>
+- :briefcase: I am currently a BBA student, focusing on web development.
+
+<br>
+
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=thakurankit13197&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
