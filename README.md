@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @thakurankit012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Ankit Thakur's README
 
-<!---
-thakurankit012/thakurankit012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Hey there! I'm Ankit Thakur, a BBA student with a passion for web development. Currently, I'm diving into Data Structures and Algorithms with Java, aiming to broaden my skills.
+
+## Expertise
+- **Web Development**: Proficient in HTML, CSS, JavaScript, and React.js.
+  
+## Learning Focus
+- **DSA with Java**: Currently exploring Data Structures and Algorithms using Java.
+
+## Goals
+- **Full Stack Web Development**: Looking forward to mastering both front-end and back-end development.
+
+## Contact
+- **LinkedIn**: [Ankit Thakur](https://www.linkedin.com/in/ankit-thakur)
+- **Email**: [ankit@example.com](mailto:ankit@example.com)
+
+Feel free to connect with me for discussions or collaborations!
