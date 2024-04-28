@@ -9,18 +9,20 @@
 
 <p align="left">
   <a href="mailto:thakurankit13197@gmail.com">
-    <img src="https://img.shields.io/badge/-thakurankit13197@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thakurankit13197@gmail.com" />
+    <img src="https://img.shields.io/badge/-thakurankit13197@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thakurankit13197@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-thakur-6259b5226/">
-    <img src="https://img.shields.io/badge/-Ankit%20Thakur-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-thakur-6259b5226/" />
+    <img src="https://img.shields.io/badge/-Ankit%20Thakur-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-thakur-6259b5226/" />
   </a>
-<!--   <a>
-    <img src="https://img.shields.io/badge/Ankit Thakur%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a> -->
-  <a href="https://github.com/thakurankit012/?tab=follow">
-    <img src="https://img.shields.io/github/followers/thakurankit012?label=Follow&style=social" />
+  <a href="https://www.instagram.com/henryjacx/">
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username/" />
   </a>
+  <a href="https://twitter.com/Ankitthakur70">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/your_twitter_username" />
+  </a>
+
 </p>
+
 
 <br>
 
