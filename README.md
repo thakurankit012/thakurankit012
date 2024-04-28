@@ -1,3 +1,4 @@
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJyeXFmMGIzOTN6d2QwbzBrcmh3NjlsamNzaGozejhzanRpY29lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" style="width: 200vh; height: 20vh;" />
 
 # Ankit Thakur
 <div style="position: relative;">
@@ -26,9 +27,11 @@
 
 <br>
 
-- 🖥️: Skills: <strong>HTML | CSS | JavaScript | React.js | Git | IntelliJ IDEA.</strong>
-- 🖋️: Studying: <strong>Data Structures and Algorithms with Java | Full Stack Web Development.</strong>
-- :briefcase: I am currently a BBA student, focusing on web development.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng2eDhsNHJ1dDgwc2d1NDZrbGhodzRsbWRsa3llMmk0ZGNud3dlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HkL3MSNUjcz5K/giphy.gif" width="16" height="16" alt="arrow" style="animation: spin 1s infinite linear; filter: invert(100%);"> 🖥️ **Skills:** <strong>HTML | CSS | JavaScript | React.js | Git | IntelliJ IDEA.</strong><br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng2eDhsNHJ1dDgwc2d1NDZrbGhodzRsbWRsa3llMmk0ZGNud3dlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HkL3MSNUjcz5K/giphy.gif" width="16" height="16" alt="arrow" style="animation: spin 1s infinite linear; filter: invert(100%);"> 🖋️ **Studying:** <strong>Data Structures and Algorithms with Java | Full Stack Web Development.</strong><br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng2eDhsNHJ1dDgwc2d1NDZrbGhodzRsbWRsa3llMmk0ZGNud3dlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HkL3MSNUjcz5K/giphy.gif" width="16" height="16" alt="arrow" style="animation: spin 1s infinite linear; filter: invert(100%);"> :briefcase: I am currently a BBA student, focusing on web development.
+
+
 
 
 ## Tech Stack 🛠️
@@ -36,14 +39,10 @@
 
 ## GitHub Stats 📈
 
-<div style="display:flex; justify-content: space-between; background-color: black; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <img src="https://github-readme-stats.vercel.app/api?username=thakurankit012&show_icons=true&theme=dark" width="48%" style="border-radius: 10px; border: 2px solid green; background-color: #1a1a1a; padding: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakurankit012&theme=dark" width="48%" style="border-radius: 10px; border: 2px solid green; background-color: #1a1a1a; padding: 20px;" />
-</div>
 
 
+[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thakurankit012&theme=github_dark&hide_border=true&color=green&margin-w=0&line_height=25)](https://github.com/thakurankit012)
 
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thakurankit012&theme=radical&hide_border=true)
 
 
 
