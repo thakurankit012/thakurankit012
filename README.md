@@ -1,3 +1,4 @@
+
  <img src="https://i.postimg.cc/L5w2fh5z/29-04-2024-22-28-45-REC.png" style="width: 200vh; height: 45vh;" />
 
 # Ankit Thakur
@@ -49,7 +50,6 @@
 
 
 [![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thakurankit012&theme=github_dark&hide_border=true&color=green&margin-w=0&line_height=25)](https://github.com/thakurankit012)
-
 
 
 
