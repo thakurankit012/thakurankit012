@@ -1,5 +1,4 @@
-<!-- <img src="" style="width: 200vh; height: 35vh;" /> -->
-
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZkeHg0M2xqMGFjeWZpNnJhZDQ2OGY2d3FleGNrNWl0eGRtN3VzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" style="width: 200vh; height: 35vh;" />
 
 # Ankit Thakur
 <div style="position: relative;">
