@@ -1,5 +1,7 @@
+<a href="https://www.reddit.com/user/write_ur_th0ughts/">
+  <img src="https://i.postimg.cc/L5w2fh5z/29-04-2024-22-28-45-REC.png" style="width: 200vh; height: 45vh;" />
+</a>
 
- <img src="https://i.postimg.cc/L5w2fh5z/29-04-2024-22-28-45-REC.png" style="width: 200vh; height: 45vh;" />
 
 # Ankit Thakur
 <div style="position: relative;">
@@ -17,10 +19,10 @@
     <img src="https://img.shields.io/badge/-Ankit%20Thakur-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-thakur-6259b5226/" />
   </a>
   <a href="https://www.instagram.com/henryjacx/">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/your_instagram_username/" />
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henryjacx/" />
   </a>
   <a href="https://twitter.com/Ankitthakur70">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/your_twitter_username" />
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Ankitthakur70" />
   </a>
 
 </p>
