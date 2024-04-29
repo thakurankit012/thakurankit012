@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJyeXFmMGIzOTN6d2QwbzBrcmh3NjlsamNzaGozejhzanRpY29lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" style="width: 200vh; height: 35vh;" />
+<img src="" style="width: 200vh; height: 35vh;" />
 
 
 # Ankit Thakur
