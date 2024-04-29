@@ -1,4 +1,4 @@
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx4ZzNic3Fia3JibGFjZTRzYnliNW84d2Q0dml2c3VmcHdjZHBqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mbAnkhx28gRFwxV2es/giphy.gif" style="width: 200vh; height: 35vh;" />
+ <img src="https://i.postimg.cc/L5w2fh5z/29-04-2024-22-28-45-REC.png" style="width: 200vh; height: 45vh;" />
 
 # Ankit Thakur
 <div style="position: relative;">
