@@ -1,5 +1,5 @@
 <a href="https://www.reddit.com/user/write_ur_th0ughts/">
-  <img src="https://i.postimg.cc/L5w2fh5z/29-04-2024-22-28-45-REC.png" style="width: 200vh; height: 45vh;" />
+<!--   <img src="https://i.postimg.cc/L5w2fh5z/29-04-2024-22-28-45-REC.png" style="width: 200vh; height: 45vh;" /> -->
 </a>
 
 
